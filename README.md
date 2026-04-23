@@ -10,6 +10,13 @@
 ![Java](https://shields.io) 
 ![C++](https://shields.io)
 ![Python](https://shields.io)
+![HTML](https://shields.io)
+![JavaScript](https://shields.io)
+![CSS](https://shields.io)
+![SQL](https://shields.io)
+![Ubunto](https://shields.io)
+![nodejs](https://shields.io)
+![Django](https://shields.io)
 
 ### 📈 GitHub Stats
 
