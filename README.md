@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Marcelo Zangiacomi 👋
 
-<!--
-**marcelo845/marcelo845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🔭 I’m currently completing my **Associate's in Computer Science** and transitioning to my **Bachelor's degree**.
+- 🌱 I'm deep-diving into **Data Structures (CS2)** and **Advanced Algorithms (CS3)**.
+- 🎯 My goal is to work on a team focused on advancing technology (AI/ML/CybSec)
+- ⚡ Fun fact: I once [built a silly board game in a day / I am a coffee enthusiast].
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Java](https://shields.io) 
+![C++](https://shields.io)
+![Python](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+
+### 📫 How to reach me
+- **LinkedIn:** marcelozangiacomi
+- **Email:** marcelo845@live.com
